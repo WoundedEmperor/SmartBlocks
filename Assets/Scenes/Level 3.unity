@@ -2140,6 +2140,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1646837297}
     - target: {fileID: 2302480132375147440, guid: 6517d4e37d25b454eaa0f964a0dbb21e, type: 3}
+      propertyPath: canPush
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2302480132375147440, guid: 6517d4e37d25b454eaa0f964a0dbb21e, type: 3}
       propertyPath: firstGroup.Array.data[0]
       value: 
       objectReference: {fileID: 519024028}
